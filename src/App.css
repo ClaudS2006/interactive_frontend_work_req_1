@@ -11,8 +11,17 @@
   will-change: filter;
   transition: filter 300ms;
 }
+.logo.claud{
+  height: 7em;
+  padding: 0.25em;
+  border: 3px solid crimson;
+  border-radius: 50%;
+}
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.claud:hover{
+  filter: drop-shadow(0 0 2em #f55529aa);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
