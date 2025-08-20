@@ -1,6 +1,5 @@
 # My first React + Vite + TypeScript Project - interactive_frontend_work_req_1 🧩
 
-=====================================================================================
 
 My introductory project built with **React**, **Vite**, and **TypeScript**.  
 It includes a simple display of my name & a fun fact about me, in addition to hot module replacement (HMR) for fast development and ESLint rules for code quality.
