@@ -5,8 +5,6 @@ It includes a simple display of my name & a fun fact about me, in addition to ho
 
 ## 🚀 About
 
----
-
 This project is designed as a minimal and modern setup for building React applications.  
 It focuses on simplicity, speed, and clean code conventions.
 
@@ -29,12 +27,9 @@ It focuses on simplicity, speed, and clean code conventions.
 - ESLint and Prettier for code consistency
 - Hot Module Replacement (HMR)
 - Screenshot showing the props/state tree in the React DevTools
-
-###
+---
 
 ![Screenshot props/state tree in the React DevTools](./src/assets/ScreenshotWorkRequ1.PNG)
-
-###
 
 ---
 
@@ -94,12 +89,13 @@ npm create vite@latest . (if you already have an empty folder & want to start fr
 yarn create vite@latest my-project
 ```
 
-# During the setup, you'll be asked to select a framework and variant (navigate with arrow-keys ⬆⬇):
+## During the setup, you'll be asked to select a framework and variant (navigate with arrow-keys ⬆⬇):
 
-Framework: select React
-Variant: select TypeScript
+Framework: select React <br>
+Variant: select TypeScript <br>
 
-# install dependencies in terminal:
+
+# Install dependencies in terminal:
 
 you will be prompted to run:
 
@@ -110,7 +106,7 @@ npm install
 
 ```
 ```bash
-**yarn** (for yarn)
+yarn (for yarn)
 ```
 followed by:
 
