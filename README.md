@@ -60,17 +60,23 @@ node -v (It should print a version >= 18)
 npm -v
 ```
 Yarn is an alternative package manager. To install it globally:
+```bash
 npm install -g yarn (in terminal)
-
+```
 #### 3. Vite + React + TypeScript Setup
 
 To create a new project with Vite:
-
+```bash
 npm create vite@latest my-project (creates new project folder)
+```
 # or 
+```bash
 npm create vite@latest . (if you already have an empty folder & want to start from there)
+```
 # or
+```bash
 yarn create vite@latest my-project
+```
 
 # During the setup, you'll be asked to select a framework and variant (navigate with arrow-keys ⬆⬇):
 
