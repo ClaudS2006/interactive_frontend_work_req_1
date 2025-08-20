@@ -1,19 +1,18 @@
 # My first React + Vite + TypeScript Project - interactive_frontend_work_req_1 🧩
 
-
 My introductory project built with **React**, **Vite**, and **TypeScript**.  
 It includes a simple display of my name & a fun fact about me, in addition to hot module replacement (HMR) for fast development and ESLint rules for code quality.
 
 ## 🚀 About
 
---------------------------------------------------------------------------------------
+---
 
 This project is designed as a minimal and modern setup for building React applications.  
 It focuses on simplicity, speed, and clean code conventions.
 
 ## Technologies Used
 
-- React 
+- React
 - TypeScript
 - Vite vite@7.1.3
 - Node.js v22.17.1
@@ -23,6 +22,7 @@ It focuses on simplicity, speed, and clean code conventions.
 - React DevTools (see Screenshot)
 
 ### ✨ Features
+
 - React with TypeScript support
 - React DevTools (Browser Plug-In for e.g. Chrome & Firefox)
 - Vite for fast development and builds
@@ -30,23 +30,31 @@ It focuses on simplicity, speed, and clean code conventions.
 - Hot Module Replacement (HMR)
 - Screenshot showing the props/state tree in the React DevTools
 
------------------------------------------------------------------------------------
+###
+
+![Screenshot props/state tree in the React DevTools](./src/assets/ScreenshotWorkRequ1.PNG)
+
+###
+
+---
 
 ## 🛠️ Getting Started
 
 ### Prerequisites
 
-You should have a solid understanding of HTML5, CSS3 and JavaScript. 
-Preferebly worked with an Editor like VS Code or Phoenix beforehand and have 
+You should have a solid understanding of HTML5, CSS3 and JavaScript.
+Preferebly worked with an Editor like VS Code or Phoenix beforehand and have
 basic knowledge about working with the terminal (build-in in VS Code).
 
 Before running this project, make sure you have the following installed:
 
 #### 1. Node.js
+
 This project requires Node.js version 18 or higher.  
 Download it from the [official website](https://nodejs.org/) and follow the installer instructions for your operating system (Windows, macOS, or Linux).
 
 To check your installation, run:
+
 ```bash
 node -v (It should print a version >= 18)
 ```
@@ -55,24 +63,33 @@ node -v (It should print a version >= 18)
 
 - npm comes automatically with Node.js
 - Check your version in the terminal:
+
 ```bash
 npm -v
 ```
+
 Yarn is an alternative package manager. To install it globally:
+
 ```bash
 npm install -g yarn (in terminal)
 ```
+
 #### 3. Vite + React + TypeScript Setup
 
 To create a new project with Vite:
+
 ```bash
 npm create vite@latest my-project (creates new project folder)
 ```
-# or 
+
+### or
+
 ```bash
 npm create vite@latest . (if you already have an empty folder & want to start from there)
 ```
-# or
+
+### or
+
 ```bash
 yarn create vite@latest my-project
 ```
@@ -85,13 +102,13 @@ Variant: select TypeScript
 # install dependencies in terminal:
 
 you will be prompted to run:
-**npm install** (to install dependencies) with Node or 
+**npm install** (to install dependencies) with Node or
 **yarn** (for yarn)
 followed by:
 **npm run dev** to start the development server or
 **yarn dev** (for yarn)
 
-----------------------------------------------------------------------------------------
+---
 
 ### Installation
 
@@ -112,7 +129,6 @@ The app will be available at http://localhost:5173.
 📖 Usage
 This project can be used as a foundation. You can copy the repository
 and build your own version or use it as look-up.
-
 
 🤝 Contributing
 Contributions are welcome!
