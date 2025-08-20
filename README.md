@@ -108,6 +108,7 @@ Start the development server:
 bash (start developing)
 npm run dev
 The app will be available at http://localhost:5173.
+```
 
 📖 Usage
 This project can be used as a foundation. You can copy the repository
