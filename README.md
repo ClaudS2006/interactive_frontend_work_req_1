@@ -102,15 +102,26 @@ Variant: select TypeScript
 # install dependencies in terminal:
 
 you will be prompted to run:
-**npm install** (to install dependencies) with Node or
+
+```bash
+
+npm install 
+(to install dependencies with Node) or
+
+```
+```bash
 **yarn** (for yarn)
+```
 followed by:
-**npm run dev** to start the development server or
-**yarn dev** (for yarn)
 
----
+```bash
+npm run dev 
+to start the development server or
 
-### Installation
+yarn dev (for yarn)
+```
+
+## Installation:
 
 Clone the repository and install dependencies:
 
