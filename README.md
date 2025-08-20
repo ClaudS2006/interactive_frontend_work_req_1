@@ -26,7 +26,9 @@ It focuses on simplicity, speed, and clean code conventions.
 - Vite for fast development and builds
 - ESLint and Prettier for code consistency
 - Hot Module Replacement (HMR)
-- Screenshot showing the props/state tree in the React DevTools
+- Screenshot showing the props/state tree in the React DevTools 
+  to give you a glimpse about the visuals. 
+
 ---
 
 ![Screenshot props/state tree in the React DevTools](./src/assets/ScreenshotWorkRequ1.PNG)
