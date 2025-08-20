@@ -56,8 +56,9 @@ node -v (It should print a version >= 18)
 
 - npm comes automatically with Node.js
 - Check your version in the terminal:
+```bash
 npm -v
-
+```
 Yarn is an alternative package manager. To install it globally:
 npm install -g yarn (in terminal)
 
