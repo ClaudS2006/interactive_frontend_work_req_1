@@ -94,8 +94,8 @@ yarn create vite@latest my-project
 
 ## During the setup, you'll be asked to select a framework and variant (navigate with arrow-keys ⬆⬇):
 
-**Framework**: select React <br>
-**Variant**: select TypeScript <br>
+**Framework**: select React    
+**Variant**: select TypeScript
 
 
 # Install dependencies in terminal:
@@ -106,16 +106,18 @@ You will be prompted to run:
 npm install 
 ```
 to install dependencies with Node or
+```bash
+yarn 
 ```
-yarn (for yarn)
-```
+for yarn
+
 followed by:
 
-```
+```bash
 npm run dev
 ``` 
 to start the development server or
-```
+```bash
 yarn dev 
 ```
 for yarn
@@ -133,33 +135,37 @@ npm install
 ### Run the Project
 Start the development server:
 
-```
+```bash
 npm run dev
 ```
 The app will be available at http://localhost:5173.
 
-📖 Usage <br>
+## 📖 Usage
 This project can be used as a foundation. You can copy the repository
 and build your own version or use it as look-up.
 
-🤝 Contributing<br>
-Contributions are welcome!<br>
+## 🤝 Contributing
+Contributions are welcome!
 Please fork the repository and open a pull request.
 
 ## Available Scripts
-```
+```bash
 npm run dev 
 ```
 Start development server
-```
+```bash
 npm run build
 ```
 Build for production
-```
+```bash
 npm run preview 
 ```
 Preview production build locally
-```
+```bash
 npm run lint
 ```
 Run ESLint
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
