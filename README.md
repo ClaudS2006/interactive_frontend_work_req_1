@@ -98,7 +98,7 @@ yarn create vite@latest my-project
 **Variant**: select TypeScript
 
 
-# Install dependencies in terminal:
+## Install dependencies in terminal:
 
 You will be prompted to run:
 
