@@ -127,7 +127,7 @@ for yarn
 Clone the repository and install dependencies:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ClaudS2006/interactive_frontend_work_req_1/tree/main>
 cd interactive_frontend_work_req_1
 npm install
 ```
